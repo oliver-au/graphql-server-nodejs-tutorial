@@ -1,5 +1,5 @@
 {
-  "name": "graphql-server",
+  "name": "graphql-server-nodejs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

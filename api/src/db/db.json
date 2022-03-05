@@ -1,0 +1,98 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "fsd",
+      "type": "CAT",
+      "name": "Cici",
+      "createedAt": "34234234234234"
+    },
+    {
+      "id": "TwGzaWZsdk3etSxqIYPzb",
+      "createdAt": 1646267964975,
+      "name": "Batman",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "ZOgl3Sgh7Y6rBbxD6ZfJO",
+      "createdAt": 1646273339705,
+      "name": "Ironman",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "C7u9b8e1QbF9RZ-aKu7WQ",
+      "createdAt": 1646274106218,
+      "name": "Kiki",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "c6PkkkiT9aXFx7pI2JQt1",
+      "createdAt": 1646285705246,
+      "name": "Dogman",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "lc1XFoh6SoN_UbranYBBi",
+      "createdAt": 1646285775738,
+      "name": "dog1",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "bD_yeFUifTtHazyy1xH-3",
+      "createdAt": 1646285904840,
+      "name": "dog2",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "Qz2_-eyZGnalUxEiH67UE",
+      "createdAt": 1646285942599,
+      "name": "kiki2",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "plfDkTJ9VtUbjflxGxB16",
+      "createdAt": 1646285976251,
+      "name": "Rebbca",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "0Lq-jrKF4X_Dpe0X6IZ93",
+      "createdAt": 1646286012359,
+      "name": "Sophie",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "sZZsKmUGRjEDECuVD_s7j",
+      "createdAt": 1646365016751,
+      "name": "og2",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "_zpSO3TohWjg5L56XnxZQ",
+      "createdAt": 1646365033916,
+      "name": "fsaf",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "CxQqRdFIPtVwHVXaNKmHs",
+      "createdAt": 1646492784840,
+      "name": "123",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
+}
